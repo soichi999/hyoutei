@@ -1,6 +1,4 @@
-# hyoutei
-
-yourname.githab.io
+hyoutei.githab.io
 
 index.html
 
